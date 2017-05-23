@@ -7,4 +7,5 @@ Steps:
 * Methods
 * Loops
 * Conditions
+* Code to method extracting
 * And more will be defined later
