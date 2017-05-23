@@ -5,7 +5,7 @@ Steps:
 * console logging
 * Classes
 * Methods
-* Loops
+* Loops (for, while)
 * Conditions
 * Code to method extracting
 * And more will be defined later
